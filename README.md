@@ -2,6 +2,11 @@
 
 Esta é uma API simples em ASP.NET Core que usa o modelo GPT-3.5-turbo da OpenAI para responder a consultas de usuário.
 
+## Vídeo de Demonstração
+
+[![Vídeo de Demonstração](https://img.youtube.com/vi/EVdJ3AjLozo/0.jpg)](https://www.youtube.com/watch?v=EVdJ3AjLozo)
+
+
 ## Pré-requisitos
 
 - .NET Core SDK instalado

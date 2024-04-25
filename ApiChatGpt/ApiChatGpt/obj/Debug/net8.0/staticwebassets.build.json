@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dRXLi7Jm6GeN0R9Tvp8ZjZpuhF3sZgImXwHf1aYeh7w=",
+  "Source": "ApiChatGpt",
+  "BasePath": "_content/ApiChatGpt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUJbzVGFjT6heyV+fA10o8QbW6rnsptGNdhQfVZc/o9CpeflmreN+FPIgiHp78AsOn0SVW4OUs6tJk3ni/i/Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abima\\source\\repos\\ApiChatGpt\\ApiChatGpt\\ApiChatGpt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abima\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\abima\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abima\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\abima\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\abima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\abima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

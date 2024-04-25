@@ -1,0 +1,6 @@
+@ApiChatGpt_HostAddress = http://localhost:5121
+
+GET {{ApiChatGpt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
